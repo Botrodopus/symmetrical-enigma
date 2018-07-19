@@ -5,4 +5,6 @@ She hates CSS.
 But Javascript is ok.
 The first week was good.
 
-I edited just because. 
+I edited just because.
+
+I have added a line at the end bwahahaha!

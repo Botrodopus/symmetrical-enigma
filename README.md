@@ -13,9 +13,13 @@ I edited just because.
 
 I have added a line at the end bwahahaha!
 
-<<<<<<< HEAD
+
 Hey guys, Brian keeps kicking me
 =======
 editing the last line
-
-Brian keeps kicking me
+=======
+I want to crash the system!!!!!!!!
+=======
+editing the last line
+=======
+I didn't not push

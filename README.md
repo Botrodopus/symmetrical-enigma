@@ -4,3 +4,5 @@ In the first week she learned Javascript, HTML, and CSS.
 She hates CSS.
 But Javascript is ok.
 The first week was good.
+
+I edited just because. 

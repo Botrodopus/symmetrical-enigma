@@ -13,7 +13,6 @@ I edited just because.
 
 I have added a line at the end bwahahaha!
 
-<<<<<<< HEAD
 I want to crash the system!!!!!!!!
 =======
 editing the last line

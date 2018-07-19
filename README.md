@@ -19,5 +19,3 @@ I want to crash the system!!!!!!!!
 editing the last line
 
 I didn't not push
-
-Hey guys, Brian keeps kicking me

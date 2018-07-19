@@ -12,4 +12,5 @@ I edited just because.
 I edited just because.
 
 I have added a line at the end bwahahaha!
->>>>>>> c78402375f2d950941efbb8859060e4921e3fa51
+
+Hey guys, Brian keeps kicking me
